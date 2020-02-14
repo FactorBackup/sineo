@@ -1,0 +1,93 @@
+﻿<? session_start(); ?>
+<html>
+<head>
+	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<title>신어코인(Sineo Coin)</title>
+	<link rel="apple-touch-icon" href="icon.png">
+	<link rel="shortcut icon" href="icon.png">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<style>
+	body{ padding:0px; border:0; margin:0;}
+	img{ background-repeat:no-repeat;}
+	.bottom{ position:absolute; bottom:0px; }
+</style>
+<body cellpadding="0" cellspacing="0" padding="0" width="100%">
+<img src="Page1.jpg" cellpadding="0" cellspacing="0"></img>
+<img id="page1" src="Page1.jpg" cellpadding="0" cellspacing="0"></img>
+<img id="bottom" src="Bottom.jpg" cellpadding="0" cellspacing="0"></img>
+<!--
+<div align="center" bgcolor="#666666" id="home" style="border: 1px solid black;">
+<table id="tabs2" bgcolor="#666666" cellpadding="0" cellspacing="0">
+	<tr>
+                <td width="25%" height="100" background="suc/title.PNG"></td>
+                <td width="75%">
+                    <table align="right" width="600">
+                        <tr>
+                        	<td width="20%" align="center"><a href="javascript:choise(0);" id="font_black" class="m00">Home</a></td>
+							<td width="20%" align="center"><a href="javascript:choise(1);" id="font_white" class="m01">보도자료</a></td>
+							<td width="20%" align="center"><a href="javascript:choise(2);" id="font_white" class="m02">지재권관련<br>최근<br>작성자료</a></td>
+							<td width="20%" align="center"><a href="javascript:choise(3);" id="font_white" class="m03">업무분야</a></td>
+							<td width="20%" align="center"><a href="javascript:choise(4);" id="font_white" class="m04">찾아오는길</a></td>                            
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+</table>
+<div width='900px' style="height:1px;background:#000000;"></div>
+<div border="0" id="changes" class="changes" style="width:900px;height:100%;">
+	<table id="tabs" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                	<table align="center" id="m_01" cellpadding="0" cellspacing="0">
+                   			
+                            <tr><td id="middle" height="330px" background="suc/moim3_2.png" cellpadding="0" cellspacing="0"></td></tr>      
+                    </table>
+                    <table align="center" id="m_01" cellpadding="0" cellspacing="0">
+                            <tr id="mid_01" bgcolor="#EEEEEE">
+                            	<td width="4%" bgcolor="#EEEEEE"></td>
+                                <td width="32%" background="suc/mid_00.png" id="mid_01" style="background-size: 100% auto; background-repeat:no-repeat;"></td>
+                                <td width="32%" background="suc/mid_01.png" id="mid_01" style="background-size: 100% auto; background-repeat:no-repeat;"></td>
+                                <td width="32%" background="suc/mid_02.png" id="mid_01" style="background-size: 100% auto; background-repeat:no-repeat;"></td>
+                            </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+</div>
+	
+
+        <table width="900" border="2" height="50">
+            <tr>
+                <td width="15%">
+                	<a href="http://www.kipo.go.kr/" target="new"><img class="icon" src="suc/icon/특허청.gif"></a></td>
+                <td width="14%">
+                	<a href="http://www.kipo.go.kr/ipt/" target="new"><img class="icon" src="suc/icon/특허심판원.gif"></a></td>
+                <td width="14%">
+                	<a href="http://patent.scourt.go.kr/" target="new"><img class="icon" src="suc/icon/특허법원.gif"></a></td>
+                <td width="14%">
+                	<a href="http://www.kipa.org/" target="new"><img class="icon" src="suc/icon/한국발명진흥회.gif"></a></td>
+                <td width="14%">
+                	<a href="http://www.copyright.or.kr/" target="new"><img class="icon" src="suc/icon/저작권위원회.gif"></a></td>
+                <td width="14%">
+                	<a href="http://www.kipris.or.kr/" target="new"><img class="icon" src="suc/icon/키프리스.gif"></a></td>
+            </tr>
+        </table>
+        <table cellpadding="0" cellspacing="0"> 
+            <tr>
+                <td>
+                	<img id="im" src="suc/bottom.png">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+<table id='temp' class='temp' onselectstart="return false">
+
+<tr><td><a href="http://blog.naver.com/ehdalsdl21" target="_blank">네이버 블로그</a></td>
+<td><a href="http://m.gimhaesinmun.co.kr/news/articleList.html?sc_sub_section_code=S2N1" target="_blank">김해신문</a></td></tr>
+
+</table>
+-->
+</body></html>
